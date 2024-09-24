@@ -1,4 +1,5 @@
 #Resumo sobre o Portal Azure
+
 O Portal Azure oferece uma ampla gama de serviços para construir, implantar e gerenciar aplicações na nuvem. Alguns dos principais recursos incluem:
 
 * **Computação:** Máquinas Virtuais, Serviços de Contêiner, Funções, Serviços de Aplicativos
